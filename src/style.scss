@@ -1,0 +1,14 @@
+$lau-color: purple;
+
+@font-face {
+  font-family: 'Invaders';
+  src: url('./Invaders-6RY1.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+.hello {
+  color: $lau-color;
+  font-family: 'Invaders', fantasy;
+  /*background: url(./laulogo.png);*/
+}
