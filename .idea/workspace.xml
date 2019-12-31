@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03fc6b9-c05d-41ed-ac9a-5a20f47d3c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/invader/invader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/main/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/main/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,10 +42,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/screens" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/main-screen" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -58,22 +81,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577578388654</updated>
-      <workItem from="1577578389858" duration="7365000" />
+      <workItem from="1577578389858" duration="9784000" />
+      <workItem from="1577714631490" duration="9679000" />
+      <workItem from="1577740999911" duration="2274000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="875" y="202" key="#Other_File_Types" timestamp="1577741242952">
+      <screen x="65" y="23" width="1615" height="1027" />
+    </state>
+    <state x="875" y="202" key="#Other_File_Types/65.23.1615.1027@65.23.1615.1027" timestamp="1577741242952" />
+    <state x="472" y="202" key="#Plugins" timestamp="1577714617426">
+      <screen x="65" y="23" width="1615" height="1027" />
+    </state>
+    <state x="472" y="202" key="#Plugins/65.23.1615.1027@65.23.1615.1027" timestamp="1577714617426" />
     <state x="864" y="141" key="CommitChangelistDialog2" timestamp="1577639419133">
       <screen x="65" y="23" width="1615" height="1027" />
     </state>
     <state x="864" y="141" key="CommitChangelistDialog2/65.23.1615.1027@65.23.1615.1027" timestamp="1577639419133" />
-    <state x="698" y="175" key="SettingsEditor" timestamp="1577639276763">
+    <state x="656" y="175" key="SettingsEditor" timestamp="1577738865273">
       <screen x="65" y="23" width="1615" height="1027" />
     </state>
-    <state x="698" y="175" key="SettingsEditor/65.23.1615.1027@65.23.1615.1027" timestamp="1577639276763" />
-    <state x="940" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1577643906705">
+    <state x="656" y="175" key="SettingsEditor/65.23.1615.1027@65.23.1615.1027" timestamp="1577738865273" />
+    <state x="940" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1577740154383">
       <screen x="65" y="23" width="1615" height="1027" />
     </state>
-    <state x="940" y="250" width="670" height="676" key="search.everywhere.popup/65.23.1615.1027@65.23.1615.1027" timestamp="1577643906705" />
+    <state x="940" y="250" width="670" height="676" key="search.everywhere.popup/65.23.1615.1027@65.23.1615.1027" timestamp="1577740154383" />
   </component>
 </project>
