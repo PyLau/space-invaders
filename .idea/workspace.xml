@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03fc6b9-c05d-41ed-ac9a-5a20f47d3c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/invader/invader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/main/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/main/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +44,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -84,6 +80,8 @@
       <workItem from="1577578389858" duration="9784000" />
       <workItem from="1577714631490" duration="9679000" />
       <workItem from="1577740999911" duration="2274000" />
+      <workItem from="1579569754183" duration="338000" />
+      <workItem from="1579570411274" duration="6581000" />
     </task>
     <servers />
   </component>
@@ -91,6 +89,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="272" y="23" key="#Notifications" timestamp="1579570420417">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="23" key="#Notifications/0.0.1360.728/1360.-226.1920.1040@0.0.1360.728" timestamp="1579570420417" />
     <state x="875" y="202" key="#Other_File_Types" timestamp="1577741242952">
       <screen x="65" y="23" width="1615" height="1027" />
     </state>
@@ -103,9 +105,10 @@
       <screen x="65" y="23" width="1615" height="1027" />
     </state>
     <state x="864" y="141" key="CommitChangelistDialog2/65.23.1615.1027@65.23.1615.1027" timestamp="1577639419133" />
-    <state x="656" y="175" key="SettingsEditor" timestamp="1577738865273">
-      <screen x="65" y="23" width="1615" height="1027" />
+    <state x="362" y="15" key="SettingsEditor" timestamp="1579573102835">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state x="362" y="15" key="SettingsEditor/0.0.1360.728/1360.-226.1920.1040@0.0.1360.728" timestamp="1579573102835" />
     <state x="656" y="175" key="SettingsEditor/65.23.1615.1027@65.23.1615.1027" timestamp="1577738865273" />
     <state x="940" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1577740154383">
       <screen x="65" y="23" width="1615" height="1027" />

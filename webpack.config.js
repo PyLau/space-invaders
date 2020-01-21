@@ -33,17 +33,12 @@ module.exports = {
         use: [
           'file-loader',
         ],
-      },
-      {
-        test: /\.pug$/,
-        use: 'pug-loader',
-        exclude: /node_modules/
       }
     ],
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: './src/index.pug'
+      template: './src/index.html'
     }),
   ]
 };
